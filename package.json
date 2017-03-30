@@ -8,9 +8,9 @@
   "author": "Quramy",
   "license": "ISC",
   "dependencies": {
-    "ws": "0.8.0"
+    "ws": "2.2.2"
   },
   "devDependencies": {
-    "electron-prebuilt": "0.31.1"
+    "electron-prebuilt": "1.4.13"
   }
 }
